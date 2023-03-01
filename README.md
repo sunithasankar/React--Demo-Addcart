@@ -1,3 +1,3 @@
 # React--Demo-Addcart
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-b1wmmu)
+[Edit on StackBlitz ⚡️](https://github.com/sunithasankar/Add-Cart.git)
